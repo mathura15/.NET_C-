@@ -1,0 +1,8 @@
+D:\C#\Example\Example\bin\Debug\Example.exe
+D:\C#\Example\Example\bin\Debug\Example.pdb
+D:\C#\Example\Example\obj\x86\Debug\Example.Form1.resources
+D:\C#\Example\Example\obj\x86\Debug\Example.Properties.Resources.resources
+D:\C#\Example\Example\obj\x86\Debug\Example.csproj.GenerateResource.Cache
+D:\C#\Example\Example\obj\x86\Debug\Example.exe
+D:\C#\Example\Example\obj\x86\Debug\Example.pdb
+D:\C#\Example\Example\obj\x86\Debug\Example.csprojResolveAssemblyReference.cache
